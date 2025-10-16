@@ -61,10 +61,3 @@ Power BI • Power Query (M) • DAX
 - Reassess discount policies to prevent margin erosion.  
 
 ---
-
-## 📫 Contact  
-
-📧 **Reema Tharra**  
-🌐 [LinkedIn](#) | [GitHub](#) | [Portfolio Website](#)
-
----
